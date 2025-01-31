@@ -10,6 +10,7 @@
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=social&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=social&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=social&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/React-000000?style=social&logo=React&logoColor=white">
           </div>
     </div>
     </div>
