@@ -11,6 +11,8 @@
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=social&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=social&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/React-000000?style=social&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/React-000000?style=social&logo=Typescript&logoColor=white">
+          <img src="https://img.shields.io/badge/React-000000?style=social&logo=Next.js&logoColor=white">
           </div>
     </div>
     </div>
